@@ -3,7 +3,7 @@
 
 ### Introduction
 
-LIRI is a **_Language Interpretation and Recognition Interface**.
+LIRI is a **_Language_Interpretation_and_Recognition_Interface**.
 
 LIRI will be a command line node app that takes in parameters and gives you back data.
 * This app made in node.js must be ran in the command line in terminal.
