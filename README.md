@@ -18,7 +18,7 @@ LIRI will do any of the below command when you enter them into the command line.
 - movie-this
 - do-what-it-says
 
--Type in node liri.js to get the instructions on how to enter the commands correctly. So if you were to type the below command you'd get the last 20 tweets I created (There may not be 20 tweets for me I just created an account)
+-Type in node liri.js to get the instructions on how to enter the commands correctly. So if you were to type the below command you'd get the last 20 tweets I created.
 
 
 - These are the npm packages I used and are needed to run the app
