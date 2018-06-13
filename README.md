@@ -22,14 +22,15 @@ LIRI will do any of the below command when you enter them into the command line:
 Type in **node liri.js** to get the instructions on how to enter the commands correctly. 
 
 
-- These are the npm packages I used and are needed to run the app
+#### These are the npm packages I used and are needed to run the app
 
 1. fs package in node
 1. twitter
 1. spotify
 1. request
 
-- To install these npm packages run these commands one at a time.
+
+#### To install these npm packages run these commands one at a time.
 
 - npm install twitter
 - npm install spotify
