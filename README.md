@@ -13,11 +13,11 @@ LIRI will do any of the below command when you enter them into the command line:
 
    * my-tweets - returns the latest 20 tweets
 
-   * spotify-this-song - <song name> - returns song data.
+   * spotify-this-song  <song name> - returns song data.
 
-   * movie-this - <movie name> - returns movie data.
+   * movie-this  <movie name> - returns movie data.
 
-   * do-what-it-says -- reads command from text file.
+   * do-what-it-says - reads command from text file.
 
 Type in **node liri.js** to get the instructions on how to enter the commands correctly. 
 
