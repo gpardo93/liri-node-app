@@ -25,8 +25,8 @@ Type in **node liri.js** to get the instructions on how to enter the commands co
 #### These are the npm packages I used and are needed to run the app
 
 1. fs package in node
-1. twitter
-1. spotify
+1. Twitter
+1. Spotify
 1. request
 
 
