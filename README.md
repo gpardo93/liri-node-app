@@ -11,13 +11,13 @@ LIRI will be a command line node app that takes in parameters and gives you back
 
 LIRI will do any of the below command when you enter them into the command line:
 
-   * my-tweets - returns the latest 20 tweets
+     * my-tweets - returns the latest 20 tweets
 
-   * spotify-this-song  <song name> - returns song data.
+     * spotify-this-song  <song name> - returns song data.
 
-   * movie-this  <movie name> - returns movie data.
+     * movie-this  <movie name> - returns movie data.
 
-   * do-what-it-says - reads command from text file.
+     * do-what-it-says - reads command from text file.
 
 Type in **node liri.js** to get the instructions on how to enter the commands correctly. 
 
@@ -32,6 +32,6 @@ Type in **node liri.js** to get the instructions on how to enter the commands co
 
 #### To install these npm packages run these commands one at a time.
 
-- npm install twitter
-- npm install spotify
-- npm install request
+    - npm install twitter
+    - npm install spotify
+    - npm install request
