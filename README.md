@@ -11,7 +11,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
 
 LIRI will do any of the below command when you enter them into the command line:
 
-     * node liri.js my-tweets "Giovanni_Pardo"- returns the latest 20 tweets
+     * node liri.js my-tweets "TwitterUserName" ex."Giovanni_Pardo"- returns the latest 20 tweets
 
      * node liri.js spotify-this-song  <song name> - returns song data.
 
