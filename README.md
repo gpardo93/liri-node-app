@@ -38,3 +38,5 @@ Type in **node liri.js** to get the instructions on how to enter the commands co
     - npm install twitter
     - npm install spotify
     - npm install request
+    
+    ![Liri Node gif](/liri.gif)
