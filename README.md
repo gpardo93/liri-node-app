@@ -39,4 +39,6 @@ Type in **node liri.js** to get the instructions on how to enter the commands co
     - npm install spotify
     - npm install request
     
-    ![Liri Node gif](/liri.gif)
+    
+   
+ ![Liri Node gif](/liri.gif)
