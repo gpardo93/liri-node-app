@@ -29,6 +29,9 @@ Type in **node liri.js** to get the instructions on how to enter the commands co
 1. Spotify
 1. request
 
+#### API used
+1. OMDB API
+
 
 #### To install these npm packages run these commands one at a time.
 
